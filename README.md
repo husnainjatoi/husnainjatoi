@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/husnainjatoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://www.dropbox.com/scl/fi/g9faxdaab3qj90wii4buq/Muhammad-Husnain-Jatoi-Resume.pdf?rlkey=1xli1m49eqcw8d7943uqf8s5d&st=k9x50a5z&dl=0">
+  <a href="https://www.dropbox.com/scl/fi/ex24lenstwy9y4etr0mpo/public-resume.pdf?rlkey=34erg1cbk7l66k1691hyormix&st=c8mrq4qf&dl=0">
     <img src="https://img.shields.io/badge/Resume-808080?style=for-the-badge&logo=read-the-docs&logoColor=white" height="30" />
   </a>
 </div>
