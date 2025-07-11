@@ -4,8 +4,8 @@
 💻 Passionate about Software Development, Systems Thinking & Problem Solving  
 🛠️ Proficient in:
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -29,5 +29,5 @@
 ---
 
 📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnainjatoi/)  
+[LinkedIn](https://www.linkedin.com/in/husnainjatoi/)  
 📁 [My Projects](https://github.com/husnainjatoi?tab=repositories)
