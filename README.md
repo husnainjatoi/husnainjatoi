@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </div>
 
-<div align="center">
-
-
 <h1 align="center">Hey there 👋, I'm Husnain</h1>
 
 <p align="center">
@@ -29,7 +26,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently studying Computer Engineering at GIKI
+- 🎓 Currently studying Computer Engineering at GIKI  
 - 🌱 Learning Data Structures, Git, and scalable development practices  
 - ⚡ Active member of IEEE GIKI & IET GIKI  
 - 🎨 Enjoy combining logic with creativity through code and visual design
