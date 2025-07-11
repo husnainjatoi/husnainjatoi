@@ -3,7 +3,6 @@
 <p align="center">
   💻 Computer Engineering Student at GIKI <br>
   🔍 Passionate about Software Development, Systems Thinking & Problem Solving <br>
-  🛠️ Proficient in C++ and Python
 </p>
 
 ---
@@ -23,7 +22,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently studying Computer Engineering at GIKI (Class of 2028)  
+- 🎓 Currently studying Computer Engineering at GIKI
 - 🌱 Learning Data Structures, Git, and scalable development practices  
 - ⚡ Active member of IEEE GIKI & IET GIKI  
 - 🎨 Enjoy combining logic with creativity through code and visual design
@@ -44,10 +43,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=husnainjatoi&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="220" />
-</div>
-
----
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Python Capstone Project](https://github.com/yourusername/python-capstone) | A Python app to fetch, process, and store web data using APIs, JSON, and SQLite. | Python, APIs, SQLite, JSON |
+| [Freelance Job Tracker](https://github.com/yourusername/freelance-job-tracker) | A CLI tool to manage freelance jobs, earnings, and deadlines. | Python, pandas, matplotlib |
+| [Splitwise (C++ Console App)](https://github.com/yourusername/splitwise-cpp) | Console app to manage shared expenses using file I/O and C++. | C++, File I/O |
