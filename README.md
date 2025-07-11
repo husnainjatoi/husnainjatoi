@@ -4,12 +4,6 @@
 
 <div align="center">
 
-👋 Welcome to my GitHub!  
-I'm a Computer Engineering student at GIKI, passionate about software development, systems thinking, and creative problem solving.
-
-</div>
-
----
 
 <h1 align="center">Hey there 👋, I'm Husnain</h1>
 
