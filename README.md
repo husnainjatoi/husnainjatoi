@@ -51,6 +51,5 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Python Capstone Project](https://github.com/yourusername/python-capstone) | A Python app to fetch, process, and store web data using APIs, JSON, and SQLite. | Python, APIs, SQLite, JSON |
-| [Freelance Job Tracker](https://github.com/yourusername/freelance-job-tracker) | A CLI tool to manage freelance jobs, earnings, and deadlines. | Python, pandas, matplotlib |
-| [Splitwise (C++ Console App)](https://github.com/yourusername/splitwise-cpp) | Console app to manage shared expenses using file I/O and C++. | C++, File I/O |
+| [Freelance Job Tracker](https://github.com/husnainjatoi/freelance-job-tracker) | A CLI tool to manage freelance jobs, earnings, and deadlines. | Python, pandas, matplotlib |
+| [Splitwise (C++ Console App)](https://github.com/husnainjatoi/splitwise-clone) | Console app to manage shared expenses using file I/O and C++. | C++, File I/O |
