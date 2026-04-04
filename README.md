@@ -51,6 +51,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [Vending Machine Controller (Verilog FSM)](https://github.com/husnainjatoi/vending-machine-fsm/tree/main) | FSM-based vending machine controller with coin handling, product selection, and change return. | Verilog, Digital Design |
 | [SecureVault](https://github.com/husnainjatoi/secure-vault/tree/main) | A command-line password manager with AES encryption and master password protection. | Python, cryptography |
 | [Freelance Job Tracker](https://github.com/husnainjatoi/freelance-job-tracker/tree/main) | A CLI tool to manage freelance jobs, earnings, and deadlines. | Python, pandas, matplotlib |
 | [Splitwise (C++ Console App)](https://github.com/husnainjatoi/splitwise-clone/tree/main) | Console app to manage shared expenses using file I/O and C++. | C++, File I/O |
