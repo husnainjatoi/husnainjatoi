@@ -53,6 +53,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [32-bit Single-Cycle RISC-V Processor](https://github.com/husnainjatoi/32bit-riscv-processor-verilog/) | Modular RV32I single-cycle processor featuring instruction decoding, ALU operations, branching logic, register file, and memory handling implemented from scratch. | Verilog, RISC-V, Computer Architecture |
 | [Vending Machine Controller (Verilog FSM)](https://github.com/husnainjatoi/vending-machine-fsm/tree/main) | FSM-based vending machine controller with coin handling, product selection, and change return. | Verilog, Digital Design |
 | [SecureVault](https://github.com/husnainjatoi/secure-vault/tree/main) | A command-line password manager with AES encryption and master password protection. | Python, cryptography |
 | [Freelance Job Tracker](https://github.com/husnainjatoi/freelance-job-tracker/tree/main) | A CLI tool to manage freelance jobs, earnings, and deadlines. | Python, pandas, matplotlib |
