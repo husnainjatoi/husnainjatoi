@@ -53,7 +53,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [RISC-V Log Analyzer](https://github.com/husnainjatoi/riscv-log-analyzer) | Bash-based automation tool that parses RISC-V simulation logs, extracts execution statistics, detects errors, and generates structured summary reports. | Bash, Linux Utilities, Makefile |
+| [RISC-V RV32I Instruction Decoder](https://github.com/husnainjatoi/riscv-decoder) | Automated C-based decoder parsing raw RV32I machine code into assembly. Serves as a CPU simulator front-end with dynamic memory scaling, hardware-mirrored bit extraction, and strict zero-leak SQA validation. | C, GNU Make, Linux Utilities |
+| [RISC-V Log Analyzer](https://github.com/husnainjatoi/riscv-log-analyzer) | Bash-based automation tool that parses RISC-V simulation logs, extracts execution statistics, detects errors, and generates structured summary reports. | Bash, GNU Make, Linux Utilities |
 | [32-bit Single-Cycle RISC-V Processor](https://github.com/husnainjatoi/32bit-riscv-processor-verilog/) | Modular RV32I single-cycle processor featuring instruction decoding, ALU operations, branching logic, register file, and memory handling implemented from scratch. | Verilog, RISC-V, Computer Architecture |
 | [Vending Machine Controller (Verilog FSM)](https://github.com/husnainjatoi/vending-machine-fsm/tree/main) | FSM-based vending machine controller with coin handling, product selection, and change return. | Verilog, Digital Design |
 | [SecureVault](https://github.com/husnainjatoi/secure-vault/tree/main) | A command-line password manager with AES encryption and master password protection. | Python, cryptography |
