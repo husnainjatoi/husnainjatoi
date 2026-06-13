@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/husnainjatoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://www.dropbox.com/scl/fi/twos0azj6xa7mek51zaha/public_resume.pdf?rlkey=ijcotpsumelzzsie5tgurlbss&st=x7wu6jj6&dl=0">
+  <a href="https://www.dropbox.com/scl/fi/c7isbflxafvaq68wy8ozj/husnainjatoi_resume.pdf?rlkey=6p48rhaps1songxfop18d7y5r&st=264np3pq&dl=0">
     <img src="https://img.shields.io/badge/Resume-808080?style=for-the-badge&logo=read-the-docs&logoColor=white" height="30" />
   </a>
 </div>
