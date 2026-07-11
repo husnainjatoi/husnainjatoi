@@ -1,26 +1,18 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
-</div>
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Muhammad+Husnain+Jatoi;Computer+Engineer;" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
-<h1 align="center">Hey there 👋, I'm Husnain</h1>
-
-<p align="center">
-  💻 <strong>Computer Engineering Student at GIKI</strong> <br>
-  🔬 Specializing in Computer Architecture, Embedded Systems, & Software Development <br>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
   <a href="https://www.linkedin.com/in/husnainjatoi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-Husnain-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:husnainjatoi716@gmail.com?subject=Hey!">
+    <img src="https://img.shields.io/badge/Gmail-husnainjatoi716@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.dropbox.com/scl/fi/8b0oiyaed3d3seyfe0q0m/public_resume.pdf?rlkey=dvs55lv8lpmbuxw7ru8m4egd7&st=b67vgtee&dl=0">
-    <img src="https://img.shields.io/badge/Resume-808080?style=for-the-badge&logo=read-the-docs&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Resume-PDF-808080?style=flat-square&logo=read-the-docs&logoColor=white" />
   </a>
-</div>
 
 ---
 
@@ -30,6 +22,7 @@
 - 🛠️ Deeply focused on the hardware-software interface, computer architecture, and low-level system design.
 - 🔬 Technical Trainee/Intern at Maktab-e-Digital Systems, specializing in RISC-V ISA and digital verification frameworks.
 - ⚡ Active member of IET GIKI.
+
 ---
 
 ### 💻 Technical Stack
@@ -54,3 +47,11 @@
 | [32-bit Single-Cycle RISC-V Processor](https://github.com/husnainjatoi/32bit-riscv-processor-verilog/) | Modular RV32I single-cycle processor featuring instruction decoding, ALU operations, branching logic, register file, and memory handling implemented from scratch. | Verilog, RISC-V, Computer Architecture |
 | [Vending Machine Controller](https://github.com/husnainjatoi/vending-machine-fsm/tree/main) | FSM-based vending machine controller with coin handling, product selection, and change return logic. | Verilog, Digital Design |
 | [SecureVault](https://github.com/husnainjatoi/secure-vault/tree/main) | A command-line password manager with AES encryption and master password protection. | Python, Cryptography |
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husnainjatoi/husnainjatoi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husnainjatoi/husnainjatoi/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/husnainjatoi/husnainjatoi/output/github-contribution-grid-snake.svg" style="width: 100%;" />
+</picture>
