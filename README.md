@@ -1,3 +1,7 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=husnainjatoi&label=Profile%20views&color=0e75b6&style=flat" alt="husnainjatoi" /> 
+</p>
+
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Muhammad+Husnain+Jatoi;Computer+Engineer;" alt="Title GitHub Readme" />
@@ -14,9 +18,9 @@
     <img src="https://img.shields.io/badge/Resume-PDF-808080?style=flat-square&logo=read-the-docs&logoColor=white" />
   </a>
 
----
 
-### 🧠 About Me
+
+### About Me
 
 - 🎓 Computer Engineering undergraduate at GIKI.
 - 🛠️ Deeply focused on the hardware-software interface, computer architecture, and low-level system design.
@@ -25,7 +29,7 @@
 
 ---
 
-### 💻 Technical Stack
+### Technical Stack
 
 #### 🔒 Hardware Design & Verification
 <img src="https://img.shields.io/badge/Verilog-845185?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
@@ -38,7 +42,7 @@
 
 ---
 
-### 📂 Featured Hardware & Software Engineering Projects
+### 📂 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -49,7 +53,6 @@
 | [SecureVault](https://github.com/husnainjatoi/secure-vault/tree/main) | A command-line password manager with AES encryption and master password protection. | Python, Cryptography |
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husnainjatoi/husnainjatoi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husnainjatoi/husnainjatoi/output/github-contribution-grid-snake.svg" />
