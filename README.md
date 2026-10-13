@@ -22,10 +22,10 @@
 
 ### About Me
 
-- 🎓 Computer Engineering undergraduate at GIKI.
-- 🛠️ Deeply focused on the hardware-software interface, computer architecture, and low-level system design.
-- 🔬 Technical Trainee/Intern at Maktab-e-Digital Systems, specializing in RISC-V ISA and digital verification frameworks.
-- ⚡ Active member of IET GIKI.
+- Computer Engineering undergraduate at GIKI.
+- Deeply focused on the hardware-software interface, computer architecture, and low-level system design.
+- Technical Trainee/Intern at Maktab-e-Digital Systems, specializing in RISC-V ISA and digital verification frameworks.
+- Active member of IET GIKI.
 
 ---
 
